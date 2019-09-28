@@ -5,11 +5,16 @@ Please see :https://github.com/andy-yun/pytorch-0.4-yolov3 .
 You can get the weight and cfg from: 
 
 Baiducloud :https://pan.baidu.com/s/1zmPZ1VMKdL_oIio23E2S4w 
-Extracted code：qo70  .
+Extracted code：qo70  
 
 I just change the class num with darknet53.
 
+
 ------------------------------------------------------------------------
+Crowdhumam datasets may to single I think .If you have much more dataset,  please tell me. E-mail:86715721@qq.com .We can training the weights of model,and compare the results.
+
+
+
 -------------------------------------------------------------------------
 ![image](https://github.com/MenGuangwen-CN-0411/pytorch-0.4-yolov3/blob/master/result1.jpg)
 
