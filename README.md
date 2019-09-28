@@ -11,7 +11,7 @@ I just change the class num with darknet53.
 
 
 ------------------------------------------------------------------------
-Crowdhumam datasets may to single I think .If you have much more dataset,  please tell me. E-mail:86715721@qq.com .We can training the weights of model,and compare the results.
+Crowdhumam datasets may to single I think .If you have much more dataset,  please tell me. E-mail:86715721@qq.com .We can training the weights of model and compare the results.
 
 
 
