@@ -1,3 +1,16 @@
+# Yolov3 training with Crowdhumam datasets 
+This repo forked from andy-yun/pytorch-0.4-yolov3 ,If you want to know much more about training ,
+Please see :https://github.com/andy-yun/pytorch-0.4-yolov3
+You can get the weight and cfg from:
+I just change the class num with darknet53.
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # pytorch-0.4-yolov3 : Yet Another Implimentation of Pytroch 0.41 or over and YoloV3
 ## This repository is created for implmentation of yolov3 with pytorch 0.4 from marvis/pytorch-yolo2. 
 This repository is forked from great work pytorch-yolo2 of @github/marvis, 
